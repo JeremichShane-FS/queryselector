@@ -136,7 +136,7 @@ Result For Text Answer:
 Result For Graphic Answer:
 Set the image source to the "Not Enough Gas" picture and make it visible on the page.
 
-![Landing Page](/images/landingpage.png)
+![Landing Page](/images/queryselector.png)
 
 <br>
 
@@ -160,7 +160,7 @@ Set the image source to the "Not Enough Gas" picture and make it visible on the 
 
 - HTML / CSS / Javascript
 
-### Front end deployed to `Vercel`
+### Front end deployed to `GitHub Pages`
 
 > [Queryselector](http://jeremichshane-fs.github.io/queryselector)
 
