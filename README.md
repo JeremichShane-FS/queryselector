@@ -136,7 +136,7 @@ Result For Text Answer:
 Result For Graphic Answer:
 Set the image source to the "Not Enough Gas" picture and make it visible on the page.
 
-![Landing Page](/images/queryselector.png)
+![Landing Page](/img/queryselector.png)
 
 <br>
 
