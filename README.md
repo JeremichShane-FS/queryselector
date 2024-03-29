@@ -158,7 +158,10 @@ Set the image source to the "Not Enough Gas" picture and make it visible on the 
 
 ## Key Features
 
-- HTML / CSS / Javascript
+- Select HTML elements based on classes & ids.
+- Change the text and properties of HTML elements.
+- Employ buttons to give the user interactivity.
+- Utilize String Interpolation to include variables inside of strings.
 
 ### Front end deployed to `GitHub Pages`
 
